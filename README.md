@@ -1,3 +1,6 @@
+<img width="1470" height="956" alt="Screenshot 2026-09-30 at 04 24 33" src="https://github.com/user-attachments/assets/e8076f6c-f497-4449-aeb6-3ce2fe01ed6e" />
+
+
 # CrossOver OMM Patcher
 
 Run Logitech **Onboard Memory Manager (OMM)** with a compatible mouse on macOS through CrossOver. This script changes CrossOver's USB device filter so OMM can see the mouse. It patches your **installed CrossOver app**, so the change applies to all its bottles. It saves the original file for restoration and refuses to patch an unrecognized code layout. These files contain no CrossOver or Logitech software.
